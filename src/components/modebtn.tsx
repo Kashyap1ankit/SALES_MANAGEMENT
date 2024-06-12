@@ -1,0 +1,22 @@
+import useChangeTheme from "../hooks/mode";
+import { SunIcon, MoonIcon } from "@chakra-ui/icons";
+type Theme = "light" | "dark";
+
+export default function ModeButton() {
+  const {
+    theme,
+    setTheme,
+  }: { theme: Theme; setTheme: React.Dispatch<React.SetStateAction<Theme>> } =
+    useChangeTheme();
+
+  function handleModeToggle(): void {
+    setTheme((prev: string) => (prev === "light" ? "dark" : "light"));
+  }
+  return (
+    <div className="dark:text-white dark:border-white rounded-md px-4 py-2 bg-gray300 dark:bg-black">
+      <button onClick={handleModeToggle}>
+        {theme === "light" ? <SunIcon /> : <MoonIcon />}
+      </button>
+    </div>
+  );
+}
