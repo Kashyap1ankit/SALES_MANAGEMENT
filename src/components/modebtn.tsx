@@ -13,7 +13,7 @@ export default function ModeButton() {
     setTheme((prev: string) => (prev === "light" ? "dark" : "light"));
   }
   return (
-    <div className="dark:text-white dark:border-white rounded-md px-4 py-2 bg-gray300 dark:bg-black">
+    <div className="dark:text-white dark:border-white rounded-md px-4 py-2 bg-gray300 dark:bg-black fixed top-4 right-4 z-50">
       <button onClick={handleModeToggle}>
         {theme === "light" ? <SunIcon /> : <MoonIcon />}
       </button>

@@ -65,6 +65,7 @@ export default function SiginForm() {
         data.username === import.meta.env.VITE_DEMO_USER &&
         data.password === import.meta.env.VITE_DEMO_USER_PASS
       ) {
+        localStorage.setItem("logged", "true");
         return navigate("/dashboard");
       } else {
         setError(true);

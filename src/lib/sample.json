@@ -1,0 +1,77 @@
+[
+  {
+    "customer_id": "Rohit ",
+    "items": [
+      {
+        "sku_id": "221",
+        "price": "15",
+        "quantity": "5"
+      }
+    ],
+    "paid": "false",
+    "invoice_no": "Invoice - 1212122",
+    "invoice_date": "07-06-2024"
+  },
+  {
+    "customer_id": "Rajnish",
+    "items": [
+      {
+        "sku_id": "222",
+        "price": "25",
+        "quantity": "3"
+      },
+      {
+        "sku_id": "223",
+        "price": "10",
+        "quantity": "2"
+      }
+    ],
+    "paid": "false",
+    "invoice_no": "Invoice - 1212123",
+    "invoice_date": "07-07-2024"
+  },
+  {
+    "customer_id": "Sachin",
+    "items": [
+      {
+        "sku_id": "224",
+        "price": "30",
+        "quantity": "1"
+      }
+    ],
+    "paid": "true",
+    "invoice_no": "Invoice - 1212124",
+    "invoice_date": "07-08-2024"
+  },
+  {
+    "customer_id": "Aman",
+    "items": [
+      {
+        "sku_id": "225",
+        "price": "50",
+        "quantity": "4"
+      }
+    ],
+    "paid": "false",
+    "invoice_no": "Invoice - 1212125",
+    "invoice_date": "07-09-2024"
+  },
+  {
+    "customer_id": "Rudra",
+    "items": [
+      {
+        "sku_id": "226",
+        "price": "75",
+        "quantity": "2"
+      },
+      {
+        "sku_id": "227",
+        "price": "20",
+        "quantity": "5"
+      }
+    ],
+    "paid": "true",
+    "invoice_no": "Invoice - 1212126",
+    "invoice_date": "07-10-2024"
+  }
+]

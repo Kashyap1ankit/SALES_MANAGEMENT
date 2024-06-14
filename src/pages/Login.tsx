@@ -27,12 +27,9 @@ export default function Login() {
   }
   return (
     <div className="overflow-x-hidden dark:bg-bgDarkPrimary">
-      {/* <Navbar /> */}
-      <div className="absolute top-4 right-4">
-        <ModeButton />
-      </div>
+      <ModeButton />
 
-      <div className="mt-28 lg:flex lg:justify-between lg:items-center z-10">
+      <div className="mt-12 lg:flex lg:justify-between lg:items-center z-10">
         <Lottie
           animationData={SigninAni}
           className="xsm:w-full xsm:size-60 mx-auto sm:size-72 md:size-80 xl:size-96 lg:w-1/2 "

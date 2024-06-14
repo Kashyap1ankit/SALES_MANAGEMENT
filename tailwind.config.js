@@ -12,7 +12,8 @@ export default {
       slate500: "#64748b",
       red: "red",
       link: "#1d4ed8",
-      pruple: "#640D6B",
+      purple: "#640D6B",
+      tabPurple: "#353147",
     },
     fontFamily: {
       Lato: ["Lato", "sans-serif"],

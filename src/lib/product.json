@@ -1,0 +1,250 @@
+[
+  {
+    "id": 210,
+    "display_id": 9,
+    "owner": 1080,
+    "name": "Amazing Gadget",
+    "category": "Tech Innovations",
+    "characteristics": "Innovative Gadget Features",
+    "features": "Wireless, Bluetooth",
+    "brand": "Techie",
+    "sku": [
+      {
+        "id": 249,
+        "selling_price": 120,
+        "max_retail_price": 150,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 10,
+        "product": 210
+      },
+      {
+        "id": 250,
+        "selling_price": 115,
+        "max_retail_price": 145,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 5,
+        "product": 210
+      }
+    ],
+    "updated_on": "2024-05-25T12:46:41.995873Z",
+    "adding_date": "2024-05-25T12:46:41.995828Z"
+  },
+  {
+    "id": 211,
+    "display_id": 10,
+    "owner": 1081,
+    "name": "Fitness Tracker",
+    "category": "Health & Wellness",
+    "characteristics": "Heart Rate Monitor, Step Counter",
+    "features": "Waterproof, Long Battery Life",
+    "brand": "FitLife",
+    "sku": [
+      {
+        "id": 251,
+        "selling_price": 60,
+        "max_retail_price": 70,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 20,
+        "product": 211
+      }
+    ],
+    "updated_on": "2024-05-26T12:46:41.995873Z",
+    "adding_date": "2024-05-26T12:46:41.995828Z"
+  },
+  {
+    "id": 212,
+    "display_id": 11,
+    "owner": 1082,
+    "name": "Wireless Earbuds",
+    "category": "Audio Equipment",
+    "characteristics": "Noise Cancelling, High Bass",
+    "features": "Bluetooth 5.0, Sweat Resistant",
+    "brand": "SoundMax",
+    "sku": [
+      {
+        "id": 252,
+        "selling_price": 85,
+        "max_retail_price": 100,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 15,
+        "product": 212
+      },
+      {
+        "id": 253,
+        "selling_price": 80,
+        "max_retail_price": 95,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 8,
+        "product": 212
+      }
+    ],
+    "updated_on": "2024-05-27T12:46:41.995873Z",
+    "adding_date": "2024-05-27T12:46:41.995828Z"
+  },
+  {
+    "id": 213,
+    "display_id": 12,
+    "owner": 1083,
+    "name": "Smart Watch",
+    "category": "Wearable Technology",
+    "characteristics": "GPS, Heart Rate Monitor",
+    "features": "Water Resistant, Long Battery Life",
+    "brand": "WatchPro",
+    "sku": [
+      {
+        "id": 254,
+        "selling_price": 150,
+        "max_retail_price": 180,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 25,
+        "product": 213
+      }
+    ],
+    "updated_on": "2024-05-28T12:46:41.995873Z",
+    "adding_date": "2024-05-28T12:46:41.995828Z"
+  },
+  {
+    "id": 214,
+    "display_id": 13,
+    "owner": 1084,
+    "name": "Portable Charger",
+    "category": "Mobile Accessories",
+    "characteristics": "10000mAh, Fast Charging",
+    "features": "Compact, Lightweight",
+    "brand": "ChargeTech",
+    "sku": [
+      {
+        "id": 255,
+        "selling_price": 30,
+        "max_retail_price": 40,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 50,
+        "product": 214
+      }
+    ],
+    "updated_on": "2024-05-29T12:46:41.995873Z",
+    "adding_date": "2024-05-29T12:46:41.995828Z"
+  },
+  {
+    "id": 215,
+    "display_id": 14,
+    "owner": 1085,
+    "name": "Gaming Mouse",
+    "category": "Computer Accessories",
+    "characteristics": "Ergonomic, High DPI",
+    "features": "RGB Lighting, Programmable Buttons",
+    "brand": "GamePro",
+    "sku": [
+      {
+        "id": 256,
+        "selling_price": 45,
+        "max_retail_price": 60,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 30,
+        "product": 215
+      }
+    ],
+    "updated_on": "2024-05-30T12:46:41.995873Z",
+    "adding_date": "2024-05-30T12:46:41.995828Z"
+  },
+  {
+    "id": 216,
+    "display_id": 15,
+    "owner": 1086,
+    "name": "Bluetooth Speaker",
+    "category": "Audio Equipment",
+    "characteristics": "High Volume, Deep Bass",
+    "features": "Waterproof, Long Battery Life",
+    "brand": "SoundWave",
+    "sku": [
+      {
+        "id": 257,
+        "selling_price": 70,
+        "max_retail_price": 90,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 40,
+        "product": 216
+      }
+    ],
+    "updated_on": "2024-05-31T12:46:41.995873Z",
+    "adding_date": "2024-05-31T12:46:41.995828Z"
+  },
+  {
+    "id": 217,
+    "display_id": 16,
+    "owner": 1087,
+    "name": "Electric Toothbrush",
+    "category": "Health & Wellness",
+    "characteristics": "High Speed, Rechargeable",
+    "features": "Multiple Modes, Long Battery Life",
+    "brand": "OralCare",
+    "sku": [
+      {
+        "id": 258,
+        "selling_price": 40,
+        "max_retail_price": 50,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 35,
+        "product": 217
+      }
+    ],
+    "updated_on": "2024-06-01T12:46:41.995873Z",
+    "adding_date": "2024-06-01T12:46:41.995828Z"
+  },
+  {
+    "id": 218,
+    "display_id": 17,
+    "owner": 1088,
+    "name": "Smart Thermostat",
+    "category": "Home Automation",
+    "characteristics": "Energy Saving, WiFi Enabled",
+    "features": "Remote Control, Easy Installation",
+    "brand": "HomeSmart",
+    "sku": [
+      {
+        "id": 259,
+        "selling_price": 200,
+        "max_retail_price": 250,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 10,
+        "product": 218
+      }
+    ],
+    "updated_on": "2024-06-02T12:46:41.995873Z",
+    "adding_date": "2024-06-02T12:46:41.995828Z"
+  },
+  {
+    "id": 219,
+    "display_id": 18,
+    "owner": 1089,
+    "name": "Smart Door Lock",
+    "category": "Home Security",
+    "characteristics": "Fingerprint, Bluetooth",
+    "features": "Easy Installation, Secure",
+    "brand": "SecureHome",
+    "sku": [
+      {
+        "id": 260,
+        "selling_price": 180,
+        "max_retail_price": 220,
+        "amount": 1,
+        "unit": "unit",
+        "quantity_in_inventory": 12,
+        "product": 219
+      }
+    ],
+    "updated_on": "2024-06-03T12:46:41.995873Z",
+    "adding_date": "2024-06-03T12:46:41.995828Z"
+  }
+]
