@@ -1,30 +1,56 @@
-# React + TypeScript + Vite
+# CONTRIBUTION
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a assigment project repo . You can contribute by following this command
 
-Currently, two official plugins are available:
+1. Fork this repo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Clone this repo in local device
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```
+git clone <http>
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+3. Move to this repo
+
+```
+cd SALES_MANAGEMENT
+
+```
+
+4. Install Dependencies
+
+```
+npm i
+```
+
+4. Start the Project
+
+```
+npm run dev
+```
+
+5. Create a new branch like "features"
+
+```
+git checkout -b <branch_name>
+```
+
+6. Add / Fix the Bug you want
+
+7. Add & Commit Changes
+
+```
+git add .
+
+git commit -m"changes added"
+```
+
+8. Push the Change to Your branch
+
+```
+git push origin <branch_name>
+```
+
+9. Create a Issue
+
+10. Create a Pr including the issue number
